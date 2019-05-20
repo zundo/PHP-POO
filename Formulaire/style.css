@@ -1,0 +1,73 @@
+.bar {
+  height: 50px;
+}
+
+.but {
+  height: 100%;
+  width: 33%;
+  border-radius:12px 0 12px 0;
+	background: #d34836;
+	border:none;
+	color:#fff;
+	font:bold 12px Verdana;
+}
+
+#resultat {
+  padding-right: 110px;
+  border: 5px solid lightgrey;
+  border-radius:12px;
+}
+
+#main {
+  display: flex;
+  margin-top:30px;
+  margin-left:30%;
+  margin-right:30%;
+}
+
+.form-label {
+  color: grey;
+  font: 20px Verdana;
+  font-family: sans-serif;
+}
+
+.form-control {
+  border: 2px solid grey;
+  border-radius:12px 12px 12px 12px;
+  height: 20px;
+}
+
+.group {
+  margin-right: 20px;
+  margin-left: 20px;
+  margin-bottom: 10px;
+  margin-top: 15px;
+  height: 40px;
+}
+
+footer {
+  text-align: center;
+}
+
+#contact {
+  text-decoration: none;
+  font-family: 'Roboto', sans-serif;
+  color: #d34836;
+  font-size: 20px;
+}
+
+#contact:hover {
+  color: black;
+}
+
+p{
+  font-family: 'Roboto', sans-serif;
+  font-size: 20px;
+  text-align: center;
+}
+
+.formulaire {
+  border: 5px solid lightgrey;
+  border-radius:12px;
+  margin-right: 20px;
+}
